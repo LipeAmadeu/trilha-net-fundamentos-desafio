@@ -46,7 +46,7 @@ namespace DesafioFundamentos.Models
         
         public void ListarVeiculos()
         {
-                // Verifica se há veículos no estacionamento
+                // Verifica se há veículos no estacionamento.
              if (veiculos.Any())
             {
                 // Realiza um laço de repetição, exibindo os veículos estacionados ✔
